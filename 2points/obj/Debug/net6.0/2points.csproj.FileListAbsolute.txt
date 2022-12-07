@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\bin\Debug\net6.0\2points.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\bin\Debug\net6.0\2points.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\bin\Debug\net6.0\2points.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\bin\Debug\net6.0\2points.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\bin\Debug\net6.0\2points.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\refint\2points.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\2points.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\2points\obj\Debug\net6.0\ref\2points.dll

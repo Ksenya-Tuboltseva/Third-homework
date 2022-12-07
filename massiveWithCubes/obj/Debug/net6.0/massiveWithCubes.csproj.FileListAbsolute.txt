@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\bin\Debug\net6.0\massiveWithCubes.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\bin\Debug\net6.0\massiveWithCubes.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\bin\Debug\net6.0\massiveWithCubes.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\bin\Debug\net6.0\massiveWithCubes.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\bin\Debug\net6.0\massiveWithCubes.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\refint\massiveWithCubes.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\massiveWithCubes.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\massiveWithCubes\obj\Debug\net6.0\ref\massiveWithCubes.dll

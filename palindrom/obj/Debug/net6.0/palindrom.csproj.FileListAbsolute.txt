@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\bin\Debug\net6.0\palindrom.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\bin\Debug\net6.0\palindrom.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\bin\Debug\net6.0\palindrom.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\bin\Debug\net6.0\palindrom.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\bin\Debug\net6.0\palindrom.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\refint\palindrom.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\palindrom.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\third homework\palindrom\obj\Debug\net6.0\ref\palindrom.dll
