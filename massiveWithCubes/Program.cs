@@ -1,8 +1,14 @@
 ﻿Console.WriteLine("Введите число");
 int N = Convert.ToInt32(Console.ReadLine());
-int [] array = new int [N+1];
-for (int i=1; i < N+1; i++)
+int size = N + 1;
+int[] numbers = new int[size];
+void PrintArray (int[] numbers, int size)
 {
-    array[i] = i * i * i;
-    Console.WriteLine(array[i]);
+    for (int i=1; i < size; i++)
+    {
+        numbers[i] = i * i * i;
+        Console.Write(numbers [i] + " ");
+    }
 }
+
+PrintArray (numbers, size);
